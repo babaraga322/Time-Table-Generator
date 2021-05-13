@@ -1,5 +1,5 @@
 # Time-Table-Generator
-Generating valid timetable for the university courses
+Generates valid timetable for the university courses
 
 ##
 Run main.cpp
